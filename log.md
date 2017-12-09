@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: Wednesday, December 6th
+### Day 1: Wednesday, December 6th 2017
 
 **Today's Progress**: Quite a lot of documentation to figure out the correct database structure for my todo list app.
 - Entity-Relationship
@@ -8,7 +8,7 @@
 
 **Thoughts:** I am aware that building a solid background on database is key for any back-end dev so I am investing a lot of time into it. Honestly I would like to make progress into the code but I have to be patient I guess. It will come soon enough, and managing to make steady effort over several consecutive day is important skill to get when you want to learn deeper. But the frustration is real, believe me :)
 
-### Day 2: Thurday, December 7th
+### Day 2: Thurday, December 7th 2017
 
 **Today's Progress**: mainly documentation about how to draw entity-relationship diagram, and I also recoded a useful example from w3c website about how to filter a list of names according to a search pattern. 
 
@@ -16,8 +16,14 @@
 
 **Link:** https://codepen.io/yamatogun/pen/NwZgVm
 
-### Day 3: Friday, December 8th
+### Day 3: Friday, December 8th 2017
 
 **Today's Progress**: Still lot of readings, mainly about how to design databases with E-R diagrams. I am also currently brushing up on the main CSS properties.
 
 **Thoughts:** Hopefully I can finish these readings soon and start applying to my projects. And I am thinking all the other steps I will have to go through after setting up the database of the todo app... And tbh I feel quite overwhelming. I feel quite bad to take that much time to finish the app, but I guess this is what happens when you are quite new to database designing and elementary front-end :) I have to be strong not to think about all the things I don't know all day long...
+
+### Day 4: Saturday, December 9th 2017
+
+**Today's progress**: i haven't worked as much as I wanted, so I focused my efforts on making progress on the todo app list, i.e. on trying to finish the documentation step on E-R diagrams.
+
+**Thoughts:**: not quite satisfied, I wanted to finish the documentation about E-R modeling today. I will try to do better tomorrow. 

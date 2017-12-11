@@ -27,3 +27,16 @@
 **Today's progress**: i haven't worked as much as I wanted, so I focused my efforts on making progress on the todo app list, i.e. on trying to finish the documentation step on E-R diagrams.
 
 **Thoughts:**: not quite satisfied, I wanted to finish the documentation about E-R modeling today. I will try to do better tomorrow. 
+
+### Day 5: Sunday, December 10th 2017
+
+**Today's progress**: I have finished to read the doc about E-R data modeling, read it once again to seize the global picture, and I immediatly applied this to determine the structure of the todo list app database (and especially understand why). 
+
+**Thoughts**: feel relieved after finishing the doc, but i know it's better not to be too satisfied about finishing an subgoal, but enjoying the process instead.
+
+
+### Day 6: Monday, December 11th 2017
+
+**today's progress**: doc about how to use relationship with SQLAlchemy + finished the CSS brush up
+
+**thoughts**: I didn't think too much about the end goal. I was focused on understanding what I was learning, which is important.

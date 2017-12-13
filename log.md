@@ -40,3 +40,11 @@
 **today's progress**: doc about how to use relationship with SQLAlchemy + finished the CSS brush up
 
 **thoughts**: I didn't think too much about the end goal. I was focused on understanding what I was learning, which is important.
+
+### Day 7: Monday, December 12th 2017
+
+**today's progress**: 
+implemented the Todo class and checked that the relationship with User was working as expected.  
+did one exercise which was about inverting a linked list
+
+**thoughts** I was glad to be able to manage to code again. I am still sick, so my pace has slowed down a bit for the past 3-4 days, but I am trying to keep going nevertheless.

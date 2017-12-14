@@ -57,3 +57,13 @@ did one exercise which was about inverting a linked list
 
 **thoughts**
 - sometimes when i see what accomplished dev do daily, i feel like i will never be good enough. I guess I just have to try my best every day and trust time ...
+
+### Day 9: Thursday, December 13th 2017
+
+**today's progress**
+- finished layout for the login page  
+- did an exercise about how to reduce space taken up by urls when crawling
+- beginning of an exercise which is an application of the binary search algo
+
+**thoughts**
+I don't know whether or not I will be ready for interviews soon enought, feels like my stamina is going away these days. I have to refine my mindset so that I can trust it better and it becomes more reliable. 

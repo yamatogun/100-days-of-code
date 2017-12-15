@@ -50,7 +50,7 @@ did one exercise which was about inverting a linked list
 **thoughts** I was glad to be able to manage to code again. I am still sick, so my pace has slowed down a bit for the past 3-4 days, but I am trying to keep going nevertheless.
 
 
-### Day 8: Wednesday, December 12th 2017
+### Day 8: Wednesday, December 13th 2017
 
 **today's progress**:
 - implement simple layout for the todo list app
@@ -58,7 +58,7 @@ did one exercise which was about inverting a linked list
 **thoughts**
 - sometimes when i see what accomplished dev do daily, i feel like i will never be good enough. I guess I just have to try my best every day and trust time ...
 
-### Day 9: Thursday, December 13th 2017
+### Day 9: Thursday, December 14th 2017
 
 **today's progress**
 - finished layout for the login page  
@@ -67,3 +67,12 @@ did one exercise which was about inverting a linked list
 
 **thoughts**
 I don't know whether or not I will be ready for interviews soon enought, feels like my stamina is going away these days. I have to refine my mindset so that I can trust it better and it becomes more reliable. 
+
+### Day 10: Friday, December 15th 
+
+**today's progress**:
+- finished exercise about binary search (implementation)
+- tried to figure out how to go from login page to main page (how to know which user is using the application in order to retrieve the proper todos)
+
+**thoughts**
+I need to get up earlier, and spend more time coding. Life hygiene!

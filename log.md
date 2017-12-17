@@ -76,3 +76,13 @@ I don't know whether or not I will be ready for interviews soon enought, feels l
 
 **thoughts**
 I need to get up earlier, and spend more time coding. Life hygiene!
+
+### Day 11: Saturday, December 16th
+
+**today's progress**
+- layout for the todo list page
+- spent some time configuring my text editor (js, css, html linters combined with vim syntastic)
+- started to read documentation about Ajax so that I can perform updates and insertions of todos
+
+**thoughts**
+- an overall good day, I am quite proud of myself, especially for having managed to be organized

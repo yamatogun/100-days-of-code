@@ -86,3 +86,24 @@ I need to get up earlier, and spend more time coding. Life hygiene!
 
 **thoughts**
 - an overall good day, I am quite proud of myself, especially for having managed to be organized
+
+### Day 11: Saturday, December 16th
+
+**today's progress**
+- doc about Ajax
+
+**thoughts**
+not much to say for today, except the fact that documentation always takes more time than one can expect
+
+### Day 12: Sunday, December 17th
+
+**today's progress**
+- most of the time spent on code dedicated to doc about ajax
+
+### Day 13: Monday, December 18th
+
+**today's progress**
+- doc about Ajax
+
+**thoughts**
+I had to prepare for an interview. So I barely spent time on making progress in my project or anything related to it. But still, I managed to read the doc further. This will be to be expected when I have a job (hopefully), having little time for side project, so I have to get used to it.

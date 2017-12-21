@@ -107,3 +107,27 @@ not much to say for today, except the fact that documentation always takes more 
 
 **thoughts**
 I had to prepare for an interview. So I barely spent time on making progress in my project or anything related to it. But still, I managed to read the doc further. This will be to be expected when I have a job (hopefully), having little time for side project, so I have to get used to it.
+
+### Day 14: Tuesday, December 19th
+
+**today's progress**
+- don't remember ...
+
+**thoughts**
+I may have inverted two days ... The interview was on Tuesday afternoon ...
+
+### Day 15: Wednesday, December 20th
+
+**today's progress**
+- added an input html element so that we can add new tasks to do 
+- tried to align it with the other elements
+- added a small button and replace the icon with an svg image
+
+**thoughts**
+At last I can make progress in my todo list app again. CSS may look simple at first sight, but I feel like I am doing it the wrong way, like I am suspecting using antipatterns ... And there are many things I can't explain right now, like the behaviour of height and weight when using a border (the element seems to exceed the bounds I explicitly specified). That won't make me up with front-end dev ...
+
+### Day 16: Thursday, December 21st
+
+**today's progress**
+- Done 3 exercises of Python Exercism's series + commented the code of other people
+

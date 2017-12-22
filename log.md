@@ -131,3 +131,10 @@ At last I can make progress in my todo list app again. CSS may look simple at fi
 **today's progress**
 - Done 3 exercises of Python Exercism's series + commented the code of other people
 
+### Day 17: Friday, December 22sn
+
+**today's progress**
+2 Interview Cake exercises
+
+**thoughts**
+would have liked to work on the todo app

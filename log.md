@@ -138,3 +138,14 @@ At last I can make progress in my todo list app again. CSS may look simple at fi
 
 **thoughts**
 would have liked to work on the todo app
+
+
+### Day 18: Saturday, December 23rd
+
+**today's progress**
+- read a short tuto about how to use Ajax in Flask app
+- started code for inserting a new task in my todo list app
+- tried (not solved yet) to figure out how to use external js files in my html templates (error is 404)
+
+**thoughts**
+I am quite frustrated because I was stuck almost all day, I feel tired ... as if I would never reach the end of the app development

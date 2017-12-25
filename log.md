@@ -149,3 +149,12 @@ would have liked to work on the todo app
 
 **thoughts**
 I am quite frustrated because I was stuck almost all day, I feel tired ... as if I would never reach the end of the app development
+
+### Day 19: Sunday, December 24th
+
+**today's progress**
+- managed to understand how to use external js file: must move it in /static directory
+- another bug though: "bad request" error on the ajax request
+
+**thoughts**
+web dev errors are sometimes quite vague which makes them difficult to debut. I guess experience matters a lot.

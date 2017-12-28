@@ -158,3 +158,28 @@ I am quite frustrated because I was stuck almost all day, I feel tired ... as if
 
 **thoughts**
 web dev errors are sometimes quite vague which makes them difficult to debut. I guess experience matters a lot.
+
+### Day 20: Monday, December 25th
+
+**today's progress**
+- coding interview training: how to get the highest product of 3 integers
+
+**thoughts**
+not much time to practice due to the christmas eve, and my routine is disturbed
+
+### Day 21: Tuesday, December 26th
+
+**today's progress**
+almost nothing except some newsread
+
+**thoughts**
+i need to be more thorough and meticulous, i am losing my productivity these days
+
+### Day 22: Wednesday, December 27th
+
+**today's progress**
+- exercise on Exercism: pangram
+- documentation about unit testing: unittest, fixtures, mock module
+
+**thoughts**
+not my most productive day. Would have liked to work on the app.

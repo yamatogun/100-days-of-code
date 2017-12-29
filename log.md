@@ -183,3 +183,14 @@ i need to be more thorough and meticulous, i am losing my productivity these day
 
 **thoughts**
 not my most productive day. Would have liked to work on the app.
+
+### Day 23: Thursday, December 27th
+
+
+**today's progress**
+- coding exercise: merging ranges
+- doc about mock
+
+**thoughts**
+i spent too much time on activities that are not important ...
+But i feel like I am getting better at handling tasks that take several days to be carried out, I can split and sustain my effort on several days if needed

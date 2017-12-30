@@ -194,3 +194,19 @@ not my most productive day. Would have liked to work on the app.
 **thoughts**
 i spent too much time on activities that are not important ...
 But i feel like I am getting better at handling tasks that take several days to be carried out, I can split and sustain my effort on several days if needed
+
+### Day 24: Friday, December 28th
+
+**progress**
+- doc about mock
+- read about dynamic programming
+- exercism: translate dna into rna
+
+### Day 25: Saturday, December 30th
+
+**progress**
+- Finished doc about mock
+- doc on dynamic programming
+
+**thoughts**
+I find it difficult to balance training between pure algo/python exercises and building app which is more focused on developing the portfolio. Feels like doing both is necessary. At the moment, I don't manage to find time for the app.

@@ -210,3 +210,20 @@ But i feel like I am getting better at handling tasks that take several days to 
 
 **thoughts**
 I find it difficult to balance training between pure algo/python exercises and building app which is more focused on developing the portfolio. Feels like doing both is necessary. At the moment, I don't manage to find time for the app.
+
+### Day 26: Sunday, December 31st
+
+**progress**
+- warm up python exercises: hamming distance, word counts
+- doc about classes and objects in Javascript
+
+**thoughts**
+maybe i should focus more on practicing my basic Python skills. I actually have a couple of readings I still have to schedule
+
+### Day 27: Monday, January 1st
+
+**progress**
+- dynamic programming exercise: number of ways to get a given sums with given coins
+
+**thoughs**
+glad i managed to do the exercise by myself

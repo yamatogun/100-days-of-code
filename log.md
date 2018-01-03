@@ -225,5 +225,24 @@ maybe i should focus more on practicing my basic Python skills. I actually have 
 **progress**
 - dynamic programming exercise: number of ways to get a given sums with given coins
 
-**thoughs**
+**thoughts**
 glad i managed to do the exercise by myself
+
+### Day 28: Tuesday, January 2nd
+
+**progress**
+- doc about subclassing in Javascript
+- some readings: Python tricks: classes and objects: customized exceptions, shallow and deep copies
+
+### Day 29: Wednesday, January 3rd
+
+**progress**
+- coding interview prep: exercise about dynamic programming: longest increaseing subsequence: just the reasoning not the code yet
+- readings: JS subclasses: composition + Python Tricks (book): namedtuples, abstract base classes
+- todo app list: debugging the Ajax data transfer: was returning a bad request, but I managed to find a StackOverflow post from a guy who had the same issue. Turns out that Flask returns a bad request whenever it can't access an item in request.from
+
+**thoughts**
+I am very glad that I managed to find the problem ... The error message "Bad request" was actually not very explicit and I am not enough experienced yest to figure out by myself what could be wrong. 
+Secondly, I now feel like I should read less and build more. I will reduce the time allocated for my readings even if it means learning less, because I feel like this is not the kind of activity that will get me a job. From now on, I will dedicate most of my time to coding interview preparation and make progress in my app.
+Honestly, I don't know if I will be ready to go outside and get a dev job ... I don't have a convincing portfolio yet and this is the kind of things that is not done overnight. Maybe I should think of getting another temporary job while training my programmation skills on my spare time...
+

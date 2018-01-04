@@ -246,3 +246,14 @@ I am very glad that I managed to find the problem ... The error message "Bad req
 Secondly, I now feel like I should read less and build more. I will reduce the time allocated for my readings even if it means learning less, because I feel like this is not the kind of activity that will get me a job. From now on, I will dedicate most of my time to coding interview preparation and make progress in my app.
 Honestly, I don't know if I will be ready to go outside and get a dev job ... I don't have a convincing portfolio yet and this is the kind of things that is not done overnight. Maybe I should think of getting another temporary job while training my programmation skills on my spare time...
 
+### Day 30: Thurday, January 4th
+
+
+**progress**
+- Coding interview exercise: length of longest increasing subsequence: code
+- short exercise about how to use Python built-in datetime module 
+- Todolist app: made the ajax transfer work in both directions
+
+**thoughts**
+I still feel like I won't be ready soon enought, and I am currently wondering what to do: continue practicing or sending job applications ? I should definitly stop asking myself such questions and get back to work.
+

@@ -246,7 +246,7 @@ I am very glad that I managed to find the problem ... The error message "Bad req
 Secondly, I now feel like I should read less and build more. I will reduce the time allocated for my readings even if it means learning less, because I feel like this is not the kind of activity that will get me a job. From now on, I will dedicate most of my time to coding interview preparation and make progress in my app.
 Honestly, I don't know if I will be ready to go outside and get a dev job ... I don't have a convincing portfolio yet and this is the kind of things that is not done overnight. Maybe I should think of getting another temporary job while training my programmation skills on my spare time...
 
-### Day 30: Thurday, January 4th
+### Day 30: Thursday, January 4th
 
 
 **progress**
@@ -257,3 +257,27 @@ Honestly, I don't know if I will be ready to go outside and get a dev job ... I 
 **thoughts**
 I still feel like I won't be ready soon enought, and I am currently wondering what to do: continue practicing or sending job applications ? I should definitly stop asking myself such questions and get back to work.
 
+### Day 31: Friday, January 5th
+
+**progress**
+- python exercises: decorator, zip, input in python 2
+- readings: namedtuple (end), difference between class and variables, differences between instance, class, static method
+
+### Day 32: Saturday, January 6th
+
+**progress**
+- python exercices: built-in functions: eval(), any/all(), sorted
+- read my former notes about basic Flask
+
+**thoughts**
+I feel like it is time to read my notes about Flask again because time has passed since the last time I worked on the app. 
+But overall, not much done unfortunately (neither interview coding practice or the app) because I spent most of the day outside and I woke up quite late ...
+
+### Day 33: Sunday, January 7th
+
+**progress**
+- finished built-in Python exercices
+- review personal notes about Flask, learning some clientside javascript to create and insert HTML elements
+
+**thoughts**
+Actually I feel like there is so much I don't know even for building a simple todo list app

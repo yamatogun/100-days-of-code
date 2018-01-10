@@ -281,3 +281,31 @@ But overall, not much done unfortunately (neither interview coding practice or t
 
 **thoughts**
 Actually I feel like there is so much I don't know even for building a simple todo list app
+
+
+### Day 34: Monday, January 8th
+
+**progress**
+- lot of documentation about scripting HTML: the DOM API, traversing the DOM (node and element apis), attributes, inserting + removing elements
+- applied this to todolist app: add an new task when we get the server's response to our Ajax call
+
+**thoughts**
+almost 3 weeks since my last commit (December 20th)
+
+### Day 35: Tuesday, January 9th
+
+**progress**
+- spent a lot of time adding garbage bin icons to trigger todo deletion. Accordingly refactored the code.
+
+**thoughts**
+i knew that it will be quite hard and tedious to add those buttons/icons since I am still not that ok with HTML. But I am quite glad to see I am able to carry out such tedious tasks. I guess persistence is one of the key quality for any developer. I try not to think of the final result anymore because it is distracting and misleading. I try to stay in the current moment and just "do" the job without looking for any satisfaction.
+
+### Day 36: Wednesday, January 10th
+
+**progress**
+- groupby from the module itertools
+- coding exercise: minimum absolute difference (greedy algo)
+- coding ex. about recursion/backtracking
+
+**thoughts**
+backtracking/recursion is a tough topic :)

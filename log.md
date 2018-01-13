@@ -309,3 +309,22 @@ i knew that it will be quite hard and tedious to add those buttons/icons since I
 
 **thoughts**
 backtracking/recursion is a tough topic :)
+
+### Day 37: Thursday, January 11th
+
+**progress**
+- coding exercises: rectangular love, superdigit (hackerrank)
+
+### Day 38: Friday, January 12th
+
+**progress**
+coding exercises: python itertools on HackerRank
+todolist app: delele buttons appear when mouse is over the todo item
+
+### Day 39: Saturday, January 13th
+
+**progress**
+todolist app: todo items are removed when clicking on the corresponding delete button. Adding item fixed to suit the new html structure (especially the table element)
+
+**thoughts**
+feels like it is a good thing to start the day with the todo list app

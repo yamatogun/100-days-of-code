@@ -328,3 +328,40 @@ todolist app: todo items are removed when clicking on the corresponding delete b
 
 **thoughts**
 feels like it is a good thing to start the day with the todo list app
+
+### Day 40: Sunday, January 14th
+
+**progress**
+todolist app: 
+- insertion and removal from the database
+- tried to find information about how to handle exceptions returned when insertion/removal fails
+coding interview:
+- did the power sum exercise 
+
+**thoughts**
+It was quite a productive day. Maybe the secret is not to think about the difficulty of an exercise, or the different things I don't know yet when building my app, but just trying to do it without judging myself.
+
+### Day 41: Monday, January 15th
+
+
+**progress**
+- todolist app: 
+rank is now updated correctly after todo deletion
+add checkboxes to specify todo status (done/not done yet)
+
+- lot of reading about scope in JS as well as closures 
+
+**thoughts**
+quite a productive day, but i would have liked to practice coding interviews
+
+# Day 42: Tuesday, January 16th
+
+**progress**
+finished reading about closure in JS
+started to read a JS cheatsheet to that i can see what to focus on
+brushed up main concepts about binary (search) trees
+tried an exercise: balance a tree
+
+
+**thoughts**
+i really have to think about the Pareto law in focus on those most important 20% 

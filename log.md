@@ -365,3 +365,22 @@ tried an exercise: balance a tree
 
 **thoughts**
 i really have to think about the Pareto law in focus on those most important 20% 
+
+# Day 43: Wednesday, January 17th
+
+**progress**
+todolist app: implemented status completion of the tasks
+coding interview: find a solution to check if a Binary tree is balanced or not (iterative solution)
+
+**thoughts**
+that was not as simple as I thought ... I am glad for having been able to implement that :)
+
+# Day 44: Thursday, January 18th
+
+
+**progress**
+coding interview: find solution (on paper) to an exercise about building a binary search tree from a sorted array
+
+
+**thoughts**
+today, i spent some part of the day applying for a position, and actually takes quite some time ... i don't know how i will be able to handle both my programming training and applying left and right at the same time ...

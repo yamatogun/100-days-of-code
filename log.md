@@ -384,3 +384,56 @@ coding interview: find solution (on paper) to an exercise about building a binar
 
 **thoughts**
 today, i spent some part of the day applying for a position, and actually takes quite some time ... i don't know how i will be able to handle both my programming training and applying left and right at the same time ...
+
+
+# Day 45: Friday, January 19th
+
+**progress**
+- todo list app: read best practices
+- JS: arrow function + this
+- coding exercise: read solution of superbalanced trees (interview cake)
+
+# Day 46: Saturday, January 20th
+
+
+**progress**
+- coding exercise: 
+	- linked list from a binary search tree
+	- next in-order node if nodes have links to the parent
+- todo list app: finish reading about best practices, change font and appearance of the todo list app so that it looks nicer
+
+**thoughts**
+- quite happy for having been able to practice on both coding exercices and move the todo list app forward. I am looking forward to read some chapters of a book about testing a webapp in Python
+
+
+# Day 47: Sunday, January 21st
+
+**progress**
+coding exercises:
+	- implemented: bst from a sorted array, first common ancestor, linkedin list from a binary tree, next in-order successor 
+read about this in javascript (article from MDN)
+
+**thoughts**
+not quite much time to move the app forward, but it is ok, I feel like I need to step backward a little bit and read about tests
+
+
+# Day 50: Monday, January 22nd
+
+**progress**
+coding exercises: Binary Search Tree Checker (interview Cake)
+read about JS: this and functions, destructuration
+
+**thoughts**
+didn't work as much as I would have liked (4h), I woke up too late + the job search ...
+
+
+# Day 51: Saturday, January 23rd
+
+**progress**
+coding exercises: review the solution of first common ancestor, tried to find my own
+finished reading about client web storage and cookies
+
+
+**thoughts**
+the week was very disturbed by the job applications ... i hope i will be able to secure more time for training, it is the most important thing after all 
+

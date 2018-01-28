@@ -427,7 +427,7 @@ read about JS: this and functions, destructuration
 didn't work as much as I would have liked (4h), I woke up too late + the job search ...
 
 
-# Day 51: Saturday, January 23rd
+# Day 51: Saturday, January 27th
 
 **progress**
 coding exercises: review the solution of first common ancestor, tried to find my own
@@ -436,4 +436,9 @@ finished reading about client web storage and cookies
 
 **thoughts**
 the week was very disturbed by the job applications ... i hope i will be able to secure more time for training, it is the most important thing after all 
+# Day 52: Sunday, January 28th
 
+**progress**
+- read on database indexing and query processing
+- review JS closures
+- continue reading the book about applying TDD with python

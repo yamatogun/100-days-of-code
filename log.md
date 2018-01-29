@@ -442,3 +442,14 @@ the week was very disturbed by the job applications ... i hope i will be able to
 - read on database indexing and query processing
 - review JS closures
 - continue reading the book about applying TDD with python
+
+
+# Day 53: Monday, January 29th
+
+**progress**
+- todo list app: read about test driven development in python: the test-code cycle
+- small exercise (given during interview an interview): ant robot
+- review basics of OOP, abstract classes, and template design patter
+
+**thought**
+I would like to finish the first 6 or 7 chapters of TDD with Python, seems like it is really important in modern development to master TDD.

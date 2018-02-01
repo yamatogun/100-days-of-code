@@ -453,3 +453,13 @@ the week was very disturbed by the job applications ... i hope i will be able to
 
 **thought**
 I would like to finish the first 6 or 7 chapters of TDD with Python, seems like it is really important in modern development to master TDD.
+
+# Day 54: Wednesday, January 31st
+
+**progress**
+todo app list: read about TDD
+
+# Day 55: Thursday, February 1st
+
+**progress**
+todo app list: continue reading, coding while following notes from chapter 3 of TDD with Python 
